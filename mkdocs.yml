@@ -6,7 +6,8 @@ site_name: CaSe Group
 theme:
   name: material
   custom_dir: material
-  logo: CaSe_logo_small.png
+  icon:
+    logo: material/alpha-c-box.svg
 
   include_search_page: true
   search_index_only: true
