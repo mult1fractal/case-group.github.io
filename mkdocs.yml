@@ -6,7 +6,7 @@ site_name: CaSe Group
 theme:
   name: material
   custom_dir: material
-  logo: material/logo.png
+  logo: CaSe_logo_small.png
 
   include_search_page: true
   search_index_only: true
