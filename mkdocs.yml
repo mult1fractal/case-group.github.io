@@ -46,8 +46,6 @@ markdown_extensions:
 ## USE SPACE not TAB
 
 nav:
-- Home:
-        - Home: index.md
 - Team:
         - Christian: team/christian.md
         - Mike: team/mike.md
