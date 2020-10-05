@@ -7,7 +7,7 @@
 **Christian Brandt**, Sascha D Braun, Claudia Stein, Peter Slickers, Ralf Ehricht, Mathias W Pletz, Oliwia Makarewicz  
 *Scientific reports 7, 43232*
 
-[**A Nosocomial Foodborne Outbreak of a VIM Carbapenemase-Expressing Citrobacter freundii**](https://academic.oup.com/cid/article/67/1/58/4809943)
+[**A Nosocomial Foodborne Outbreak of a VIM Carbapenemase-Expressing Citrobacter freundii**](https://academic.oup.com/cid/article/67/1/58/4809943)  
 Mathias W Pletz, Antje Wollny, Ute-Heike Dobermann, Jürgen Rödel, Svetlana Neubauer, Claudia Stein, **Christian Brandt**, Anita Hartung, Alexander Mellmann, Sabine Trommer, Birgit Edel, Vladimir Patchev, Oliwia Makarewicz, Jens Maschmann
 *Clinical Infectious Diseases 67 (1), 58-64*
 
@@ -33,7 +33,7 @@ C Stein, O Makarewicz, Y Pfeifer, C Brandt, MW Pletz
 
 ## Other
 
-[**Whole genome sequencing of 39 invasive Streptococcus pneumoniae sequence type 199 isolates revealed switches from serotype 19A to 15B**] (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169370)  
+[**Whole genome sequencing of 39 invasive Streptococcus pneumoniae sequence type 199 isolates revealed switches from serotype 19A to 15B**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169370)  
 Oliwia Makarewicz, Marie Lucas, **Christian Brandt**, Leonie Herrmann, Andreas Albersmeier, Christian Rückert, Jochen Blom, Alexander Goesmann, Mark van der Linden, Jörn Kalinowski, Mathias W Pletz  
 *PLoS One 12 (1), e0169370*
 
