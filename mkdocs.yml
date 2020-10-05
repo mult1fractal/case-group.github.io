@@ -7,7 +7,7 @@ theme:
   name: material
   custom_dir: material
   icon:
-    logo: material/alpha-c-box.svg
+    logo: octicons/chevron-right-24.svg
 
   include_search_page: true
   search_index_only: true
