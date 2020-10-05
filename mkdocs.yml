@@ -1,0 +1,68 @@
+site_name: CaSe Group
+
+# configurations:
+## DONT CHANGE
+
+theme:
+  name: material
+  custom_dir: material
+
+  include_search_page: true
+  search_index_only: true
+
+  language: en
+  features:
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: blue grey
+    accent: orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/replikation
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/gcloudchris
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Christian_Brandt5
+    - icon: fontawesome/brands/linkedin
+      link: https://de.linkedin.com/in/christian-b-a2b05018a
+
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Navigation
+## USE SPACE not TAB
+
+nav:
+- Home:
+        - Home: index.md
+- Team:
+        - Christian: team/christian.md
+        - Mike: team/mike.md
+        - Mara: team/mara.md
+        - Mateusz: team/mateusz.md
+        - Ricc: team/ricc.md
+
+- Publications: 
+        - Peer reviewed: publications/peer.md
+        - Non reviewed: publications/nonpeer.md
+- Tools: 
+        - Workflows: tools/workflows.md
+        - Other: tools/other.md
+- Tutorials: 
+        - shell: tutorials/shell.md
+        - python: tutorials/python.md
+        - nextflow: tutorials/nextflow.md
+        - docker: tutorials/docker.md
