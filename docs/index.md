@@ -3,7 +3,7 @@
 
 **About us**
 
-The CaSe group - lead by Dr. Christian Brandt - is a young and dynamic team at the *Institute for Infectious Diseases and Infection Control*.
+The CaSe group - lead by Dr. Christian Brandt - is a young and dynamic team at the [*Institute for Infectious Diseases and Infection Control*](https://www.uniklinikum-jena.de/infektionsmedizin/).
 We combine the wet-lab biology (especially nanopore sequencing) with applied bioinformatics (automated workflow development and big data analysis) to address various clinical needs.
 
 We cover various areas of the microbiology:  
