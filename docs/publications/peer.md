@@ -8,7 +8,7 @@
 *Scientific reports 7, 43232*
 
 [**A Nosocomial Foodborne Outbreak of a VIM Carbapenemase-Expressing Citrobacter freundii**](https://academic.oup.com/cid/article/67/1/58/4809943)  
-Mathias W Pletz, Antje Wollny, Ute-Heike Dobermann, Jürgen Rödel, Svetlana Neubauer, Claudia Stein, **Christian Brandt**, Anita Hartung, Alexander Mellmann, Sabine Trommer, Birgit Edel, Vladimir Patchev, Oliwia Makarewicz, Jens Maschmann
+Mathias W Pletz, Antje Wollny, Ute-Heike Dobermann, Jürgen Rödel, Svetlana Neubauer, Claudia Stein, **Christian Brandt**, Anita Hartung, Alexander Mellmann, Sabine Trommer, Birgit Edel, Vladimir Patchev, Oliwia Makarewicz, Jens Maschmann  
 *Clinical Infectious Diseases 67 (1), 58-64*
 
 [**Mutagenesis of the CTX-M-type ESBL—is MIC-guided treatment according to the new EUCAST recommendations a safe approach?**]()  
@@ -30,6 +30,10 @@ C Brandt, E Zander, Y Pfeifer, SD Braun, R Ehricht, O Makarewicz, ...
 [**Direct RNA-based detection of CTX-M β-lactamases in human blood samples**]()  
 C Stein, O Makarewicz, Y Pfeifer, C Brandt, MW Pletz  
 *International Journal of Medical Microbiology 305 (3), 370-377*
+
+[**ESBL colonization and acquisition in a hospital population: The molecular epidemiology and transmission of resistance genes**]()  
+S Hagel, O Makarewicz, A Hartung, D Weiß, C Stein, C Brandt, ...  
+*PloS one 14 (1), e0208505*
 
 ## Other
 

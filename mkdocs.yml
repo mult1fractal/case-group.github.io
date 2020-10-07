@@ -1,4 +1,4 @@
-site_name: CaSe Group
+site_name: CaSe Group - Cloud computing And SEquencing
 
 # configurations:
 ## DONT CHANGE
@@ -49,20 +49,24 @@ markdown_extensions:
 
 nav:
 - Team:
-        - Christian: team/christian.md
-        - Mike: team/mike.md
-        - Mara: team/mara.md
-        - Mateusz: team/mateusz.md
-        - Ricc: team/ricc.md
+        - Christian - phD/head: team/christian.md
+        - Mateusz Jundzill - phD student: team/mateusz.md
+        - Mike Marquet - phD student: team/mike.md
+        - Ricc Spott - phD student: team/ricc.md
+        - Mara Lohde - master student: team/mara.md
 
 - Publications: 
         - Peer reviewed: publications/peer.md
-        - Non reviewed: publications/nonpeer.md
-- Tools: 
+        - Preprints: publications/nonpeer.md
+- Programs: 
         - Workflows: tools/workflows.md
+        - Tools: tools/tools.md
         - Other: tools/other.md
 - Tutorials: 
         - shell: tutorials/shell.md
-        - python: tutorials/python.md
+        - python:
+              - python general: tutorials/python/python.md
+              - jupyter book: tutorials/python/jbook.md
+              - pandas: tutorials/python/pandas.md
         - nextflow: tutorials/nextflow.md
         - docker: tutorials/docker.md

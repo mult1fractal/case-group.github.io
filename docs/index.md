@@ -1,16 +1,26 @@
-CaSe Group
+![CaSe_logo_small](CaSe_logo_small.png) ***C***loud computing ***a***nd ***Se***quencing 
 ===
 
 **About us**
 
-**text**
+The CaSe group - lead by Dr. Christian Brandt - is a young and dynamic team at the *Institute for Infectious Diseases and Infection Control*.
+We combine the wet-lab biology (especially nanopore sequencing) with applied bioinformatics (automated workflow development and big data analysis) to address various clinical needs.
 
+We cover various areas of the microbiology:  
 
-**License**
+ * Antibiotic resistancs in pathogenes
+ * Phage detection and therapy
+ * Nanopore sequencing
+ * RNA-seq
+ * SARS-CoV-19 sequencing
+ * Identification of plasmids
+ * Outbreak investigation
 
-GNU GENERAL PUBLIC LICENSE
-   Version 3, 29 June 2007
+and bioinformatics:  
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
-Everyone is permitted to copy and distribute verbatim copies
-of this license document, but changing it is not allowed.
+ * Cloud computing
+ * Workflow development
+ * Containerisation (docker, singularity)
+ * Whole genome sequencing (WGS)
+ * Metagenomics
+
