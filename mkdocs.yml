@@ -23,6 +23,8 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+copyright: ©2020 Christian Brandt
+
 extra_css:
   - stylesheets/extra.css
 
@@ -37,17 +39,19 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://de.linkedin.com/in/christian-b-a2b05018a
 
-
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+
+
 # Navigation
 ## USE SPACE not TAB
 
 nav:
+- Home: index.md
 - Team:
         - Christian - phD/head: team/christian.md
         - Mateusz Jundzill - phD student: team/mateusz.md
