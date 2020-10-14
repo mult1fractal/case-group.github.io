@@ -10,7 +10,7 @@ Mike Marquet is a phD student at the *Institute for Infectious Diseases and Infe
 [**PEONS**: ](https://www.uniklinikum-jena.de/infektionsmedizin/Translationale+Forschung/Klinische+Studien/PEONS.html)
 Prediction of Early Onset Neonatal Sepsis  
 
-Sequenced metagenomes of clinical maternal and child samples  will be analysed and used to predict whether the infants will develop a sepsis or not.A descriptive longitudinal analysis of the maternal sample is intended to show how antibiosis changes the composition of the vaginal metagenome
+Sequenced metagenomes of clinical maternal and child samples  will be analysed and used to predict whether the infants will develop a sepsis or not. A descriptive longitudinal analysis of the maternal sample is intended to show how antibiosis changes the composition of the vaginal metagenome
 The What the Phage workflow will be used to identify the Phageome in the clinical metagenome data.
 
 [**De-Phage**: ](https://www.uniklinikum-jena.de/infektionsmedizin/Translationale+Forschung/Forschungs_+und+Entwicklungsprojekte/De_Phage.html)
